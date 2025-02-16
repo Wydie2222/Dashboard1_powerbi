@@ -1,0 +1,1004 @@
+﻿pesticide_key,groupe_fonction_key,code_groupe_fonction,libelle_groupe_fonction,code_sandre,libelle_pesticide,code_famille,norme_dce,statut,date_retrait
+1,10,I,Insecticide,1197,Heptachlore,Organochlorés,3,PNA,
+2,10,I,Insecticide,1748,Heptachlore époxyde cis,Organochlorés,3,PNA,
+3,10,I,Insecticide,1749,Heptachlore époxyde trans,Organochlorés,3,PNA,
+4,10,I,Insecticide,1103,Aldrine,Organochlorés,3,PNA,10/04/1994
+5,10,I,Insecticide,1173,Dieldrine,Organochlorés,3,PNA,10/04/1994
+6,10,I,Insecticide,1083,Chlorpyriphos-éthyl,Organophosphorés,1,PA,
+7,,,,1475,Code gelé en 1998 (Chlorpyrifos),Organophosphorés,1,,
+8,9,H,Herbicide,1092,Prosulfocarbe,Carbamates,1,PA,
+9,15,IM,"Insecticide, Mollusticide",1093,Thiodicarbe,Carbamates,1,PNA,11/20/2008
+10,10,I,Insecticide,1094,Lambda-cyhalothrine,Divers (organiques),1,PA,
+11,10,I,Insecticide,1100,Acéphate,Organophosphorés,1,PNA,9/26/2004
+12,9,H,Herbicide,1101,Alachlore,Divers (organiques),1,PNA,6/18/2008
+13,16,IN,"Insecticide, Nématicide",1102,Aldicarbe,Carbamates,1,PNA,12/31/2007
+14,9,H,Herbicide,1104,Amétryne,Triazines et métabolites,1,PNA,10/01/2003
+15,9,H,Herbicide,1105,Aminotriazole,Azoles,1,PA,
+16,9,H,Herbicide,1107,Atrazine,Triazines et métabolites,1,PNA,10/01/2003
+17,9,H,Herbicide,1108,Atrazine déséthyl,Triazines et métabolites,1,PNA,10/01/2003
+18,9,H,Herbicide,1109,Atrazine déisopropyl,Triazines et métabolites,1,PNA,10/01/2003
+19,,,,1298,(Code gelé en 2005 Simazine déséthyl),Triazines et métabolites,1,,
+20,11,IA,"Insecticide, Acaricide",1110,Azinphos éthyl,Organophosphorés,1,PNA,1/13/1996
+21,11,IA,"Insecticide, Acaricide",1111,Azinphos méthyl,Organophosphorés,1,PNA,12/31/2007
+22,9,H,Herbicide,1112,Benfluraline,Divers (organiques),1,PA,
+23,9,H,Herbicide,1113,Bentazone,Diazines,1,PA,
+24,9,H,Herbicide,1119,Bifénox,Divers (organiques),1,PA,
+25,10,I,Insecticide,1120,Bifenthrine,Pyréthrinoïdes,1,PNA,11/01/2013
+26,10,I,Insecticide,1123,Bromophos éthyl,Organophosphorés,1,PNA,01/01/1991
+27,10,I,Insecticide,1124,Bromophos méthyl,Organophosphorés,1,PNA,01/01/1991
+28,9,H,Herbicide,1125,Bromoxynil,Divers (organiques),1,PA,
+29,9,H,Herbicide,1126,Butraline,Divers (organiques),1,PNA,4/20/2010
+30,4,F,Fongicide,1127,Captafol,Divers (organiques),1,PNA,11/01/1989
+31,4,F,Fongicide,1128,Captane,Divers (organiques),1,PNA,12/31/2009
+32,4,F,Fongicide,1129,Carbendazime,Carbamates,1,PNA,12/31/2009
+33,16,IN,"Insecticide, Nématicide",1130,Carbofuran,Carbamates,1,PNA,12/13/2008
+34,10,I,Insecticide,1131,Carbophénothion,Organophosphorés,1,PNA,7/25/2003
+35,10,I,Insecticide,1132,Chlordane,Organochlorés,1,PNA,01/01/1973
+36,10,I,Insecticide,1756,(Code gelé en 2011 Chlordane alpha),Organochlorés,1,PNA,
+37,10,I,Insecticide,1757,Chlordane béta,Organochlorés,1,PNA,
+38,10,I,Insecticide,1758,Chlordane gamma,Organochlorés,1,PNA,
+39,10,I,Insecticide,7010,Chlordane alpha,Organochlorés,1,PNA,
+40,9,H,Herbicide,1133,Chloridazone,Diazines,1,PA,
+41,10,I,Insecticide,1134,Chlorméphos,Organophosphorés,1,PNA,12/31/2007
+42,9,H,Herbicide,1136,Chlortoluron,Urées,1,PA,
+43,9,H,Herbicide,1137,Cyanazine,Triazines et métabolites,1,PNA,9/30/2003
+44,10,I,Insecticide,1138,Cyhalothrine,Pyréthrinoïdes,1,PNA,03/12/1995
+45,4,F,Fongicide,1139,Cymoxanil,Divers (organiques),1,PA,
+46,10,I,Insecticide,1140,Cyperméthrine,Pyréthrinoïdes,1,PA,
+47,9,H,Herbicide,1141,"2,4-D",Divers (organiques),1,PA,
+48,9,H,Herbicide,1142,"2,4-DB",Divers (organiques),1,PA,
+49,10,I,Insecticide,1149,Deltaméthrine,Pyréthrinoïdes,1,PA,
+50,10,I,Insecticide,1154,Déméton-S-méthylsulfone,Organophosphorés,1,PNA,01/01/1996
+51,9,H,Herbicide,1155,Desmétryne,Triazines et métabolites,1,PNA,12/31/2003
+52,9,H,Herbicide,1156,Diallate,Carbamates,1,PNA,1995
+53,11,IA,"Insecticide, Acaricide",1157,Diazinon,Organophosphorés,1,PNA,12/01/2008
+54,10,I,Insecticide,1159,Dichlorofenthion,Organochlorés,1,PNA,12/31/2003
+55,9,H,Herbicide,1169,Dichlorprop,Divers (organiques),1,PNA,12/31/2003
+56,9,H,Herbicide,2544,Dichlorprop-P,Divers (organiques),1,PA,
+57,11,IA,"Insecticide, Acaricide",1170,Dichlorvos,Organophosphorés,1,PNA,12/01/2008
+58,9,H,Herbicide,1171,Dic(h)lofop-méthyl,Divers (organiques),1,PNA,12/31/2011
+59,11,IA,"Insecticide, Acaricide",1172,Dicofol,Organochlorés,1,PNA,3/18/2010
+60,11,IA,"Insecticide, Acaricide",1175,Diméthoate,Organophosphorés,1,PA,
+61,9,H,Herbicide,1176,Dinoterbe,Divers (organiques),1,PNA,10/01/1997
+62,9,H,Herbicide,1177,Diuron,Urées,1,PNA,12/13/2008
+63,10,I,Insecticide,1180,Endothion,Organophosphorés,1,PNA,
+64,9,H,Herbicide,1182,EPTC,Carbamates,1,PNA,12/31/2003
+65,11,IA,"Insecticide, Acaricide",1174,(Code gelé Ethion),Organophosphorés,1,PNA,12/31/2003
+66,11,IA,"Insecticide, Acaricide",1183,Ethion,Organophosphorés,1,PNA,12/31/2003
+67,9,H,Herbicide,1184,Ethofumésate,Divers (organiques),1,PA,
+68,4,F,Fongicide,1185,Fénarimol,Divers (organiques),1,PNA,12/31/2008
+69,10,I,Insecticide,1186,Fenchlorphos,Organophosphorés,1,PNA,
+70,10,I,Insecticide,1187,Fénitrothion,Organophosphorés,1,PNA,11/20/2008
+71,11,IA,"Insecticide, Acaricide",1188,Fenpropathrine,Pyréthrinoïdes,1,PNA,12/31/2008
+72,4,F,Fongicide,1189,Fenpropimorphe,Divers (organiques),1,PA,
+73,10,I,Insecticide,1190,Fenthion,Organophosphorés,1,PNA,08/01/2005
+74,4,F,Fongicide,1192,Folpel,Divers (organiques),1,PA,
+75,11,IA,"Insecticide, Acaricide",1193,Fluvalinate-tau,Pyréthrinoïdes,1,PA,
+76,4,F,Fongicide,1194,Flusilazole,Triazines et métabolites,1,PNA,
+77,10,I,Insecticide,1198,Heptachlore époxyde cis+trans,Organochlorés,1,PNA,
+78,9,H,Herbicide,1205,Ioxynil,Divers (organiques),1,PA,
+79,4,F,Fongicide,1206,Iprodione,Azoles,1,PA,
+80,9,H,Herbicide,1208,Isoproturon,Urées,1,PA,
+81,9,H,Herbicide,1209,Linuron,Urées,1,PA,
+82,11,IA,"Insecticide, Acaricide",1210,Malathion,Organophosphorés,1,PA,12/01/2008
+83,4,F,Fongicide,1211,Mancozèbe,Carbamates,1,PA,
+84,9,H,Herbicide,1212,"2,4-MCPA",Divers (organiques),1,PA,
+85,9,H,Herbicide,1213,"2,4-MCPB",Divers (organiques),1,PA,
+86,9,H,Herbicide,1214,Mécoprop,Divers (organiques),1,PA,
+87,9,H,Herbicide,1215,Métamitrone,Triazines et métabolites,1,PA,
+88,9,H,Herbicide,1216,Méthabenzthiazuron,Urées,1,PNA,12/31/2009
+89,11,IA,"Insecticide, Acaricide",1217,Méthidathion,Organophosphorés,1,PNA,12/31/2007
+90,11,IA,"Insecticide, Acaricide",1218,Méthomyl,Carbamates,1,PA,
+91,9,H,Herbicide,1219,Méthoprotryne,Triazines et métabolites,1,PNA,
+92,11,IA,"Insecticide, Acaricide",1220,Méthyl trithion,Organophosphorés,1,PNA,
+93,9,H,Herbicide,1221,Métolachlore,Organochlorés,1,PNA,12/31/2003
+94,9,H,Herbicide,1222,Métoxuron,Urées,1,PNA,12/31/2007
+95,9,H,Herbicide,1225,Métribuzine,Triazines et métabolites,1,PA,
+96,11,IA,"Insecticide, Acaricide",1226,Mévinphos,Organophosphorés,1,PNA,12/31/2003
+97,9,H,Herbicide,1227,Monolinuron,Urées,1,PNA,09/09/2001
+98,9,H,Herbicide,1228,Monuron,Urées,1,PNA,
+99,9,H,Herbicide,1229,Nitrofène,Benzène et dérivés,1,PNA,
+100,11,IA,"Insecticide, Acaricide",1230,Ométhoate,Organophosphorés,1,PNA,12/31/2003
+101,10,I,Insecticide,1231,Oxydéméton-méthyl,Organophosphorés,1,PA,
+102,9,H,Herbicide,1234,Pendiméthaline,Divers (organiques),1,PA,
+103,9,H,Herbicide,1236,Phenmédiphame,Carbamates,1,PA,
+104,11,IA,"Insecticide, Acaricide",1237,Phosalone,Organophosphorés,1,PNA,6/22/2008
+105,11,IA,"Insecticide, Acaricide",1238,Phosphamidon,Organophosphorés,1,PNA,12/31/2003
+106,4,F,Fongicide,1253,Prochloraz,Azoles,1,PA,
+107,9,H,Herbicide,1254,Prométryne,Triazines et métabolites,1,PNA,12/31/2007
+108,11,IA,"Insecticide, Acaricide",1255,Propargite,Organophosphorés,1,PNA,12/31/2011
+109,9,H,Herbicide,1256,Propazine,Triazines et métabolites,1,PNA,
+110,4,F,Fongicide,1257,Propiconazole,Azoles,1,PA,
+111,4,F,Fongicide,1258,Pyrazophos,Organophosphorés,1,PNA,09/09/2001
+112,9,H,Herbicide,1259,Pyridate,Divers (organiques),1,PA,
+113,10,I,Insecticide,1260,Pyrimiphos-éthyl,Organophosphorés,1,PNA,
+114,11,IA,"Insecticide, Acaricide",1261,Pyrimiphos-méthyl,Organophosphorés,1,PA,
+115,9,H,Herbicide,1262,Secbuméton,Triazines et métabolites,1,PNA,
+116,9,H,Herbicide,1263,Simazine,Triazines et métabolites,1,PNA,10/01/2003
+117,9,H,Herbicide,1264,"2,4,5-T",Divers (organiques),1,PNA,
+118,10,I,Insecticide,1265,Télodrine,Organochlorés,1,PNA,
+119,9,H,Herbicide,1266,Terbuméton,Triazines et métabolites,1,PNA,01/01/1999
+120,16,IN,"Insecticide, Nématicide",1267,Terbuphos,Organophosphorés,1,PNA,12/31/2004
+121,9,H,Herbicide,1268,Terbuthylazine,Triazines et métabolites,1,PNA,07/01/2004
+122,9,H,Herbicide,1269,Terbutryne,Triazines et métabolites,1,PNA,12/31/2004
+123,11,IA,"Insecticide, Acaricide",1277,Tétrachlorvinphos,Organophosphorés,1,PNA,
+124,10,I,Insecticide,1279,Toxaphène,Organochlorés,1,PNA,
+125,4,F,Fongicide,1280,Triadiménol,Azoles,1,PA,
+126,9,H,Herbicide,1281,Triallate,Carbamates,1,PA,
+127,9,H,Herbicide,1282,Total Triazines,Triazines et métabolites,1,SO,
+128,10,I,Insecticide,1287,Trichlorfon,Organophosphorés,1,PA,11/20/2008
+129,9,H,Herbicide,1288,Triclopyr,Divers (organiques),1,PA,
+130,9,H,Herbicide,1289,Trifluraline,Divers (organiques),1,PNA,12/31/2008
+131,9,H,Herbicide,12256,"Trifluraline-3,4,1",Divers (organiques),1,,
+132,11,IA,"Insecticide, Acaricide",1290,Vamidothion,Organophosphorés,1,PNA,12/31/2003
+133,4,F,Fongicide,1291,Vinclozoline,Divers (organiques),1,PNA,12/31/2007
+134,11,IA,"Insecticide, Acaricide",1308,Amitraze,Divers (organiques),1,PNA,08/01/2005
+135,11,IA,"Insecticide, Acaricide",1310,Acrinathrine,Pyréthrinoïdes,1,PA,
+136,10,I,Insecticide,1329,Bendiocarbe,Carbamates,1,PA,
+137,9,H,Herbicide,1333,Carbétamide,Carbamates,1,PA,
+138,9,H,Herbicide,1336,Chlorbufame,Carbamates,1,PNA,
+139,4,F,Fongicide,1341,Chloronèbe,Benzène et dérivés,1,PNA,
+140,9,H,Herbicide,1353,Chlorsulfuron,Urées,1,PA,
+141,4,F,Fongicide,1359,Cyprodinil,Divers (organiques),1,PA,
+142,4,F,Fongicide,1360,Dichlofluanide,Divers (organiques),1,PNA,12/31/2003
+143,4,F,Fongicide,1402,Diéthofencarbe,Carbamates,1,PNA,
+144,4,F,Fongicide,1403,Diméthomorphe,Divers (organiques),1,PA,
+145,4,F,Fongicide,1405,Hexaconazole,Azoles,1,PNA,6/30/2008
+146,9,H,Herbicide,1406,Lénacile,Diazines,1,PA,
+147,4,F,Fongicide,1407,Bénomyl,Carbamates,1,PNA,
+148,9,H,Herbicide,1414,Propyzamide,Amides,1,PA,
+149,4,F,Fongicide,1432,Pyriméthanil,Divers (organiques),1,PA,
+150,17,Ireg,"Insecticide, Régulateur de croissance",1463,Carbaryl,Carbamates,1,PNA,11/20/2008
+151,10,I,Insecticide,1464,Chlorfenvinphos,Organophosphorés,1,PNA,12/31/2007
+152,7,FN,"Fongicide, Nématicide",1472,Chloropicrine,Organochlorés,1,PNA,
+153,4,F,Fongicide,1473,Chlorothalonil,Divers (organiques),1,PA,
+154,21,Reg,Régulateur de croissance,1474,Chlorprophame,Carbamates,1,PA,
+155,9,H,Herbicide,1480,Dicamba,Organochlorés,1,PA,
+156,19,N,Nématicide,12248,"Dichloropropylène-1,3cis","COHV, solvants chlorés, fréons",1,,
+157,19,N,Nématicide,12249,"Dichloropropylène-1,3trans","COHV, solvants chlorés, fréons",1,,
+158,10,I,Insecticide,1488,Diflubenzuron,Urées,1,PA,
+159,12,IAFH,"Insecticide, Acaricide, Fongicide, Herbicide",1490,Dinitrocrésol(DNOC),Composés phénoliques,1,PNA,04/01/2000
+160,12,IAFH,"Insecticide, Acaricide, Fongicide, Herbicide",6421,(Code gelé en 2009 Dinitrocrésol(DNOC)),Composés phénoliques,1,PNA,04/01/2000
+161,9,H,Herbicide,1491,Dinosèbe,Composés phénoliques,1,PNA,
+162,11,IA,"Insecticide, Acaricide",1492,Disulfoton,Organophosphorés,1,PNA,12/31/2003
+163,11,IA,"Insecticide, Acaricide",1495,Ethoprophos,Organophosphorés,1,PNA,
+164,11,IA,"Insecticide, Acaricide",1499,Phénamiphos,Organophosphorés,1,PNA,
+165,9,H,Herbicide,1500,Fénuron,Urées,1,PNA,
+166,9,H,Herbicide,1501,Fluométuron,Urées,1,PNA,
+167,10,I,Insecticide,1502,Bioresméthrine,Pyréthrinoïdes,1,PNA,
+168,4,F,Fongicide,1503,Flutriafol,Azoles,1,PA,
+169,11,IA,"Insecticide, Acaricide",1504,Formothion,Organophosphorés,1,PNA,12/31/2003
+170,9,H,Herbicide,1506,Glyphosate,Divers (organiques),1,PA,
+171,13,IAM,"Insecticide, Acaricide, Mollusticide",1510,Mercaptodiméthur,Carbamates,1,PA,
+172,9,H,Herbicide,1515,Métobromuron,Urées,1,PNA,12/31/2003
+173,11,IA,"Insecticide, Acaricide",1516,Naled,Organophosphorés,1,PNA,4/30/2007
+174,9,H,Herbicide,1519,Napropamide,Amides,1,PA,
+175,9,H,Herbicide,1520,Néburon,Urées,1,PNA,01/01/2000
+176,9,H,Herbicide,1522,Paraquat,Pyridines,1,PNA,04/08/207
+177,10,I,Insecticide,1523,Perméthrine,Pyréthrinoïdes,1,PA,
+178,10,I,Insecticide,5682,Perméthrine cis,Pyréthrinoïdes,1,,
+179,10,I,Insecticide,5683,Perméthrine trans,Pyréthrinoïdes,1,,
+180,14,IAN,"Insecticide, Acaricide, Nématicide",1525,Phorate,Organophosphorés,1,PNA,12/31/2003
+181,9,H,Herbicide,1526,Glufosinate,Organophosphorés,1,PNA,
+182,,,,1817,Code gelé en 2000 (Glufosinate),Organophosphorés,1,,
+183,10,I,Insecticide,1528,Pirimicarbe,Carbamates,1,PNA,
+184,4,F,Fongicide,1529,Bitertanol,Azoles,1,PNA,12/30/2011
+185,10,I,Insecticide,1530,Bromure de méthyle,"COHV, solvants chlorés, fréons",1,PNA,3/18/2010
+186,9,H,Herbicide,1531,Buturon,Urées,1,PNA,
+187,9,H,Herbicide,1532,Propanil,Amides,1,PNA,3/30/2010
+188,11,IA,"Insecticide, Acaricide",1533,Propétamphos,Organophosphorés,1,PA,
+189,9,H,Herbicide,1534,Prophame,Carbamates,1,PNA,04/09/1997
+190,10,I,Insecticide,1535,Propoxur,Carbamates,1,PNA,
+191,4,F,Fongicide,1538,Quintozène,Divers (organiques),1,PNA,6/27/2001
+192,9,H,Herbicide,1539,Silvex,Divers (organiques),1,PNA,
+193,10,I,Insecticide,1540,Chlorpyriphos-méthyl,Organophosphorés,1,PA,
+194,9,H,Herbicide,1542,Tébuthiuron,Urées,1,PNA,
+195,4,F,Fongicide,1544,Triadiméfone,Azoles,1,PNA,12/31/2004
+196,10,I,Insecticide,1150,Déméton-O,Organophosphorés,1,PNA,
+197,11,IA,"Insecticide, Acaricide",1152,Déméton-S,Organophosphorés,1,PNA,
+198,10,I,Insecticide,1550,Déméton,Organophosphorés,1,PNA,
+199,4,F,Fongicide,1584,Biphényle,Benzène et dérivés,1,PNA,
+200,14,IAN,"Insecticide, Acaricide, Nématicide",1657,Triazophos,Organophosphorés,1,PNA,1992
+201,10,I,Insecticide,1658,Tralométhrine,Pyréthrinoïdes,1,PNA,12/31/2003
+202,9,H,Herbicide,1659,Terbacil,Diazines,1,PNA,12/31/2007
+203,4,F,Fongicide,1660,Tetraconazole,Azoles,1,PA,
+204,9,H,Herbicide,1661,Tébutame,Amides,1,PNA,12/31/2003
+205,9,H,Herbicide,1662,Sulcotrione,Divers (organiques),1,PA,
+206,4,F,Fongicide,1663,Pyrifenox,Pyridines,1,PNA,12/31/2003
+207,4,F,Fongicide,1664,Procymidone,Divers (organiques),1,PNA,12/31/2008
+208,10,I,Insecticide,1665,Phoxime,Organophosphorés,1,PA,
+209,4,F,Fongicide,1666,Oxadixyl,Divers (organiques),1,PNA,12/31/2003
+210,9,H,Herbicide,1667,Oxadiazon,Organochlorés,1,PA,
+211,9,H,Herbicide,1668,Oryzalin,Divers (organiques),1,PA,
+212,9,H,Herbicide,1669,Norflurazon,Diazines,1,PNA,12/31/2003
+213,9,H,Herbicide,1670,Métazachlore,Amides,1,PA,
+214,11,IA,"Insecticide, Acaricide",1671,Methamidophos,Organophosphorés,1,PNA,12/31/2008
+215,9,H,Herbicide,1672,Isoxaben,Amides,1,PA,
+216,9,H,Herbicide,1673,Hexazinone,Triazines et métabolites,1,PNA,12/31/2007
+217,10,I,Insecticide,1674,Fonofos,Organophosphorés,1,PNA,12/31/2003
+218,9,H,Herbicide,1675,Flurochloridone,Divers (organiques),1,PA,
+219,11,IA,"Insecticide, Acaricide",1676,Flufenoxuron,Divers (organiques),1,PNA,
+220,4,F,Fongicide,1677,Meptyldinocap,Divers (organiques),1,PA,
+221,9,H,Herbicide,1678,Dimethenamide,Amides,1,PNA,6/22/2008
+222,9,H,Herbicide,1679,Dichlobenil,Organochlorés,1,PNA,3/18/2010
+223,4,F,Fongicide,1680,Cyproconazole,Azoles,1,PA,
+224,10,I,Insecticide,1681,Cyfluthrine,Pyréthrinoïdes,1,PA,
+225,10,I,Insecticide,1682,Coumaphos,Organophosphorés,1,PNA,
+226,9,H,Herbicide,1683,Chloroxuron,Urées,1,PNA,12/31/2003
+227,20,R,Rodenticide,1684,Chlorophacinone,Divers (organiques),1,PA,
+228,11,IA,"Insecticide, Acaricide",1685,Bromopropylate,Divers (organiques),1,PNA,
+229,9,H,Herbicide,1686,Bromacil,Diazines,1,PNA,01/01/2004
+230,4,F,Fongicide,1687,Benalaxyl,Amides,1,PA,
+231,9,H,Herbicide,1688,Aclonifène,Divers (organiques),1,PA,
+232,4,F,Fongicide,1694,Tébuconazole,Azoles,1,PA,
+233,9,H,Herbicide,1695,Imazaméthabenz,Azoles,1,PNA,12/31/2007
+234,9,H,Herbicide,1696,Cycluron,Urées,1,PNA,
+235,10,I,Insecticide,1697,Depalléthrine/allethrine,Pyréthrinoïdes,1,PNA,
+236,10,I,Insecticide,1698,Dimétilan,Carbamates,1,PNA,
+237,9,H,Herbicide,1699,Diquat,Pyridines,1,PA,
+238,4,F,Fongicide,1700,Fenpropidine,Divers (organiques),1,PA,
+239,11,IA,"Insecticide, Acaricide",1701,Fenvalérate,Pyréthrinoïdes,1,PNA,
+240,11,IA,"Insecticide, Acaricide",1703,Formétanate,Carbamates,1,PNA,
+241,4,F,Fongicide,1704,Imazalil,Azoles,1,PA,
+242,4,F,Fongicide,1705,Manèbe,Carbamates,1,PA,
+243,4,F,Fongicide,1706,Métalaxyl,Divers (organiques),1,PNA,11/02/2004
+244,9,H,Herbicide,1707,Molinate,Carbamates,1,PNA,12/31/2009
+245,9,H,Herbicide,1708,Piclorame,Divers (organiques),1,PNA,
+246,10,I,Insecticide,1709,Piperonyl butoxyde,Divers (organiques),1,PA,
+247,10,I,Insecticide,1710,Promécarbe,Carbamates,1,PNA,
+248,9,H,Herbicide,1711,Prométone,Triazines et métabolites,1,,
+249,9,H,Herbicide,1712,Propachlore,Divers (organiques),1,PNA,3/18/2010
+250,4,F,Fongicide,1713,Thiabendazole,Azoles,1,PA,
+251,9,H,Herbicide,1714,Thiazafluron,Urées,1,PNA,12/31/2004
+252,11,IA,"Insecticide, Acaricide",1715,Thiofanox,Carbamates,1,PNA,12/31/2004
+253,4,F,Fongicide,1717,Thiophanate-méthyl,Carbamates,1,PA,
+254,4,F,Fongicide,1718,Thirame,Carbamates,1,PA,
+255,4,F,Fongicide,1719,Tolylfluanide,Divers (organiques),1,PNA,07/03/2007
+256,10,I,Insecticide,1720,Trichloronat,Organochlorés,1,PNA,
+257,4,F,Fongicide,1721,Zinèbe,Carbamates,1,PNA,9/22/2002
+258,4,F,Fongicide,1722,Zirame,Carbamates,1,PA,
+259,10,I,Insecticide,1742,Endosulfan sulfate,Organochlorés,1,,
+260,10,I,Insecticide,1178,Endosulfan alpha,Organochlorés,1,PNA,
+261,10,I,Insecticide,1179,Endosulfan bêta,Organochlorés,1,PNA,
+262,10,I,Insecticide,1743,Total Endosulfan,Organochlorés,1,SO,
+263,4,F,Fongicide,1744,Epoxiconazole,Azoles,1,PA,
+264,4,F,Fongicide,1762,Penconazole,Azoles,1,PA,
+265,9,H,Herbicide,1763,Ethidimuron,Urées,1,PNA,12/31/2003
+266,9,H,Herbicide,1764,Benthiocarbe,Carbamates,1,PNA,
+267,9,H,Herbicide,1765,Fluroxypyr,Pyridines,1,PA,
+268,10,I,Insecticide,1796,Métaldéhyde,Divers (organiques),1,PA,
+269,9,H,Herbicide,1797,Metsulfuron méthyle,Urées,1,PA,
+270,4,F,Fongicide,1802,Triforine,Azoles,1,PNA,12/31/2003
+271,15,IM,"Insecticide, Mollusticide",1803,Mercaptodiméthur sulfone,Carbamates,1,,
+272,15,IM,"Insecticide, Mollusticide",1804,Mercaptodiméthur sulfoxyde,Carbamates,1,,
+273,,,,1805,Hydroxycarbofuran-3,Carbamates,1,,
+274,,,,1826,(Code gelé Hydroxycarbofuran-3),Carbamates,1,,
+275,,,,12082,Hydroxycarbofuran-3,Carbamates,1,,
+276,,,,1806,Aldicarbe sulfoxyde,Carbamates,1,,
+277,,,,1827,Code gelé (aldicarbe sulfoxyde),Carbamates,1,,
+278,,,,1807,Aldicarbe sulfoné,Carbamates,1,,
+279,,,,1828,Code gelé(aldicarbe sulfone),Carbamates,1,,
+280,9,H,Herbicide,1808,Séthoxydime,Divers (organiques),1,PNA,12/31/2003
+281,10,I,Insecticide,1809,Esfenvalerate,Pyréthrinoïdes,1,PA,
+282,9,H,Herbicide,1810,Clopyralide,Pyridines,1,PA,
+283,4,F,Fongicide,1811,Tridemorph,Divers (organiques),1,PNA,
+284,4,F,Fongicide,2080,(Code gelé en 2007 Tridemorph),Divers (organiques),1,PNA,
+285,10,I,Insecticide,1812,Alpha-cyperméthrine/alphaméthrine,Pyréthrinoïdes,1,PA,
+286,9,H,Herbicide,1813,Chlorthiamide,Amides,1,PNA,12/31/2003
+287,9,H,Herbicide,1814,Diflufenicanil,Divers (organiques),1,PA,
+288,4,F,Fongicide,1816,Fosetyl,Organophosphorés,1,PA,
+289,10,I,Insecticide,1829,Isofenphos,Organophosphorés,1,PNA,12/31/2003
+290,,,,1830,Déisopropyl-déséthyl-atrazine,Triazines et métabolites,1,,
+291,,,,12121,Deisopropyldeethylatrazine,Triazines et métabolites,1,,
+292,,,,1831,Simazine-hydroxy,Triazines et métabolites,1,,
+293,,,,1832,2-hydroxy atrazine,Triazines et métabolites,1,,
+294,,,,12118,Hydroxyatrazine,Triazines et métabolites,1,,
+295,9,H,Herbicide,1840,Flamprop-isopropyl,Divers (organiques),1,PNA,12/31/2003
+296,4,F,Fongicide,1843,Fenfurame,Amides,1,PNA,12/31/2003
+297,9,H,Herbicide,1844,Diméthylarsinate de sodium,Organométalliques,1,PNA,
+298,,,,1848,Oxychlordane,Organochlorés,1,,
+299,14,IAN,"Insecticide, Acaricide, Nématicide",1850,Oxamyl,Carbamates,1,PA,
+300,9,H,Herbicide,1858,Vernolate,Carbamates,1,PNA,12/31/2003
+301,20,R,Rodenticide,1859,Bromadiolone,Divers (organiques),1,PA,
+302,4,F,Fongicide,1860,Bromuconazole,Azoles,1,PNA,05/03/2010
+303,4,F,Fongicide,1861,Bupirimate,Pyridines,1,PA,
+304,10,I,Insecticide,1862,Buprofézine,Diazines,1,PNA,3/30/2010
+305,16,IN,"Insecticide, Nématicide",1863,Cadusafos,Organophosphorés,1,PNA,12/15/2008
+306,10,I,Insecticide,1864,Carbosulfan,Carbamates,1,PNA,12/13/2008
+307,5,FA,"Fongicide, Acaricide",1865,Chinométhionate,Diazines,1,PNA,12/31/2003
+308,10,I,Insecticide,1866,Chlordécone,Organochlorés,1,PNA,
+309,9,H,Herbicide,1867,Chlorthal,Divers (organiques),1,,
+310,11,IA,"Insecticide, Acaricide",1868,Clofentézine,Triazines et métabolites,1,PA,
+311,7,FN,"Fongicide, Nématicide",1869,Dazomet,Carbamates,1,PA,
+312,9,H,Herbicide,1870,Diméfuron,Urées,1,PNA,12/31/2003
+313,7,FN,"Fongicide, Nématicide",1871,Diniconazole,Azoles,1,PNA,3/18/2010
+314,10,I,Insecticide,1873,EPN,Organophosphorés,1,PNA,
+315,10,I,Insecticide,1874,Ethiofencarbe,Carbamates,1,PNA,12/31/2003
+316,10,I,Insecticide,1875,Hexaflumuron,Urées,1,PNA,12/31/2004
+317,11,IA,"Insecticide, Acaricide",1876,Hexythiazox,Divers (organiques),1,PA,
+318,10,I,Insecticide,1877,Imidaclopride,Divers (organiques),1,PA,
+319,4,F,Fongicide,1878,Mépronil,Divers (organiques),1,PNA,12/31/2003
+320,4,F,Fongicide,1879,Metconazole,Azoles,1,PA,
+321,11,IA,"Insecticide, Acaricide",1880,Monocrotophos,Organophosphorés,1,PNA,12/31/2003
+322,4,F,Fongicide,1881,Myclobutanil,Azoles,1,PA,
+323,9,H,Herbicide,1882,Nicosulfuron,Urées,1,PA,
+324,4,F,Fongicide,1883,Nuarimol,Pyridines,1,PNA,12/31/2004
+325,4,F,Fongicide,1887,Pencycuron,Urées,1,PA,
+326,11,IA,"Insecticide, Acaricide",1889,Profenofos,Organophosphorés,1,PNA,12/31/2003
+327,11,IA,"Insecticide, Acaricide",1890,Pyridabène,Divers (organiques),1,PA,
+328,11,IA,"Insecticide, Acaricide",1891,Quinalphos,Organophosphorés,1,PNA,12/31/2003
+329,9,H,Herbicide,1892,Rimsulfuron,Urées,1,PA,
+330,9,H,Herbicide,1893,Siduron,Urées,1,PNA,12/31/2003
+331,11,IA,"Insecticide, Acaricide",1894,Sulfotep,Organophosphorés,1,PNA,12/31/2003
+332,10,I,Insecticide,1895,Tébufénozide,Divers (organiques),1,PA,
+333,11,IA,"Insecticide, Acaricide",1896,Tébufenpyrad,Azoles,1,PA,
+334,10,I,Insecticide,1897,Téflubenzuron,Urées,1,PNA,
+335,10,I,Insecticide,1898,Téméphos,Organophosphorés,1,PA,
+336,11,IA,"Insecticide, Acaricide",1899,TEPP,Organophosphorés,1,PNA,
+337,11,IA,"Insecticide, Acaricide",1900,Tétradifon,Divers (organiques),1,PNA,12/31/2004
+338,10,I,Insecticide,1901,Triazamate,Divers (organiques),1,PNA,12/31/2006
+339,10,I,Insecticide,1902,Triflumuron,Urées,1,PA,
+340,9,H,Herbicide,1903,Acétochlore,Amides,1,PA,
+341,4,F,Fongicide,1904,Diclobutrazol,Azoles,1,PNA,12/31/2003
+342,4,F,Fongicide,1905,Difénoconazole,Azoles,1,PA,
+343,4,F,Fongicide,1906,Fenbuconazole,Azoles,1,PA,
+344,,,,1907,AMPA,Divers (organiques),1,,
+345,,,,2083,(Code gelé en 2002 AMPA),Divers (organiques),1,,
+346,4,F,Fongicide,1908,Furalaxyl,Amides,1,PNA,12/31/2003
+347,10,I,Insecticide,1910,Heptenophos,Organophosphorés,1,PNA,12/31/2003
+348,9,H,Herbicide,1911,Imazaméthabenz-méthyl,Azoles,1,PNA,
+349,9,H,Herbicide,1912,Métosulame,Divers (organiques),1,PA,
+350,9,H,Herbicide,1913,Thifensulfuron méthyl,Urées,1,PA,
+351,9,H,Herbicide,1914,Triasulfuron,Urées,1,PNA,
+352,9,H,Herbicide,1923,Sébuthylazine,Triazines et métabolites,1,PNA,
+353,9,H,Herbicide,1929,"1-(3,4-dichlorophényl)-3-méthyl-urée",Urées,1,,
+354,,,,2848,(Code gelé en 2009 (Demethyldiuron)),Urées,1,,
+355,,,,1930,"3,4-dichlorophénylurée",Urées,1,,
+356,,,,2086,"(Code gelé en 2003 3,4-dichlorophenylurée)",Urées,1,,
+357,,,,2849,(Code gelé en 2010 Didemethyldiuron),Urées,1,,
+358,,,,9050,"3,4-dichlorophenylurée",Urées,1,,
+359,,,,9054,"1-(3,4dichlorophényl)-urée",Urées,1,,
+360,,,,1932,4-isopropylaniline,Amines,1,,
+361,9,H,Herbicide,1935,Irgarol,Triazines et métabolites,1,,
+362,9,H,Herbicide,1937,Naptalame,Amides,1,PNA,12/31/2007
+363,9,H,Herbicide,1939,Flazasulfuron,Urées,1,PA,
+364,9,H,Herbicide,1940,Thiafluamide,Amides,1,PA,
+365,9,H,Herbicide,99006,Fluthiamide,Amides,1,,
+366,9,H,Herbicide,1941,Bromoxynil octanoate,Divers (organiques),1,PA,
+367,9,H,Herbicide,1942,Ioxynil octanoate,Divers (organiques),1,PA,
+368,,,,1943,"2,6-diethylaniline",Amines,1,,
+369,,,,1944,2-chloro-4-méthyl sulfonyl benzoique acide,Divers (organiques),1,,
+370,9,H,Herbicide,1945,Isoxaflutole,Azoles,1,PA,
+371,9,H,Herbicide,1949,Pretilachlore,Divers (organiques),1,PNA,12/31/2007
+372,4,F,Fongicide,1950,Kresoxim-methyl,Divers (organiques),1,PA,
+373,4,F,Fongicide,2574,(Code gelé en 2005 Kresoxim-methyl),Divers (organiques),1,PA,
+374,4,F,Fongicide,1951,Azoxystrobine,Divers (organiques),1,PA,
+375,9,H,Herbicide,1952,Oxyfluorfene,Divers (organiques),1,PA,
+376,10,I,Insecticide,1953,Tefluthrine,Pyréthrinoïdes,1,PA,
+377,,,,1954,Hydroxyterbuthylazine,Triazines et métabolites,1,,
+378,9,H,Herbicide,1965,Asulame,Carbamates,1,PA,12/31/2012
+379,4,F,Fongicide,1966,Dithianon,Divers (organiques),1,PA,
+380,10,I,Insecticide,1967,Fenoxycarbe,Carbamates,1,PA,
+381,9,H,Herbicide,1968,Mefenacet,Amides,1,PNA,
+382,21,Reg,Régulateur de croissance,1969,Mepiquat,Divers (organiques),1,PA,
+383,9,H,Herbicide,1970,Acifluorfen,Divers (organiques),1,PNA,
+384,10,I,Insecticide,1971,Phosmet,Organophosphorés,1,PA,
+385,9,H,Herbicide,1972,Propaquizafop,Divers (organiques),1,PA,
+386,9,H,Herbicide,1973,Fénoxaprop-éthyl,Divers (organiques),1,PNA,
+387,9,H,Herbicide,1974,Fluridone,Divers (organiques),1,PNA,12/31/2003
+388,4,F,Fongicide,1975,Fosetyl-aluminium,Organométalliques,1,PA,
+389,4,F,Fongicide,8988,Fosetyl aluminium,Organométalliques,1,,
+390,19,N,Nématicide,1976,Isazofos,Organophosphorés,1,PNA,12/31/2003
+391,19,N,Nématicide,5439,(Code gelé en 2007 Isazofos),Organophosphorés,1,PNA,12/31/2003
+392,10,I,Insecticide,2007,Abamectin,Divers (organiques),1,PA,
+393,9,H,Herbicide,2008,Flurtamone,Divers (organiques),1,PA,
+394,10,I,Insecticide,2009,Fipronil,Azoles,1,PA,
+395,,,,2011,"2,6-dichlorobenzamide",Amides,1,,
+396,9,H,Herbicide,2012,Amidosulfuron,Urées,1,PA,
+397,22,RepO,Répulsif,2013,Anthraquinone,Amines,1,PNA,6/15/2010
+398,4,F,Fongicide,2014,Azaconazole,Azoles,1,PNA,
+399,10,I,Insecticide,2015,Azamétiphos,Organophosphorés,1,PA,
+400,9,H,Herbicide,2016,Chlorbromuron,Urées,1,PNA,
+401,9,H,Herbicide,2017,Clomazone,Divers (organiques),1,PA,
+402,9,H,Herbicide,2018,Cloquintocet-mexyl,Divers (organiques),1,PA,
+403,20,R,Rodenticide,2019,Coumatétralyl,Divers (organiques),1,PA,
+404,4,F,Fongicide,2020,Famoxadone,Azoles,1,PA,
+405,4,F,Fongicide,2021,Ferbame,Carbamates,1,PNA,1/13/1996
+406,4,F,Fongicide,2022,Fludioxonil,Azoles,1,PA,
+407,9,H,Herbicide,2023,Flumioxazine,Divers (organiques),1,PA,
+408,4,F,Fongicide,2024,Flurprimidol,Pyridines,1,PNA,
+409,11,IA,"Insecticide, Acaricide",2025,Iodofenphos,Organophosphorés,1,PNA,
+410,10,I,Insecticide,2026,Lufénuron,Urées,1,PNA,12/30/2011
+411,4,F,Fongicide,2027,Ofurace,Amides,1,PNA,12/31/2003
+412,4,F,Fongicide,2028,Quinoxyfen,Divers (organiques),1,PA,
+413,11,IA,"Insecticide, Acaricide",2029,Roténone,Divers (organiques),1,PNA,10/31/2011
+414,,,,2045,Terbuthylazine déséthyl,Triazines et métabolites,1,,
+415,,,,2051,Déséthyl-terbuméton,Triazines et métabolites,1,,
+416,4,F,Fongicide,2056,Fluquinconazole,Azoles,1,PNA,
+417,4,F,Fongicide,2057,Fénamidone,Azoles,1,PA,
+418,10,I,Insecticide,2061,Fenothrine,Pyréthrinoïdes,1,PNA,
+419,11,IA,"Insecticide, Acaricide",2062,Pyrethrine,Pyréthrinoïdes,1,PA,
+420,9,H,Herbicide,2064,Tribenuron-Methyle,Urées,1,PA,
+421,4,F,Fongicide,2067,Metiram,Carbamates,1,PA,
+422,9,H,Herbicide,2068,Oxadiargyl,Azoles,1,PA,
+423,9,H,Herbicide,2069,Quizalofop,Divers (organiques),1,PNA,12/31/2003
+424,9,H,Herbicide,2070,Quizalofop éthyl,Divers (organiques),1,PNA,
+425,11,IA,"Insecticide, Acaricide",1716,Code gelé en 2003 (Dithiométon),Organophosphorés,1,,
+426,11,IA,"Insecticide, Acaricide",2071,Thiométon,Organophosphorés,1,PNA,12/31/2004
+427,9,H,Herbicide,2074,Benoxacor,Divers (organiques),1,PA,
+428,9,H,Herbicide,2075,Fomesafen,Amides,1,PNA,12/31/2007
+429,9,H,Herbicide,2076,Mésotrione,Aldéhydes et cétones,1,PA,
+430,9,H,Herbicide,2077,Sulfosate,Divers (organiques),1,PNA,
+431,11,IA,"Insecticide, Acaricide",2078,Fenbutatin oxyde,Organométalliques,1,PA,
+432,9,H,Herbicide,2084,Mécoprop-P,Divers (organiques),1,PA,
+433,9,H,Herbicide,2085,Sulfosulfuron,Urées,1,PA,
+434,9,H,Herbicide,2087,Quinmerac,Divers (organiques),1,PA,
+435,19,N,Nématicide,2088,Metam-sodium,Carbamates,1,PA,
+436,21,Reg,Régulateur de croissance,2089,Mépiquat chlorure,Divers (organiques),1,PA,
+437,9,H,Herbicide,2090,Imazapyr,Azoles,1,PNA,12/31/2003
+438,6,FHM,"Fongicide, Herbicide, Mollusticide",1778,(Code gelé en 2011 Fentine hydroxyde),Organométalliques,1,PNA,10/01/2003
+439,4,F,Fongicide,2091,Fentine hydroxyde,Organométalliques,1,PNA,10/01/2003
+440,4,F,Fongicide,2092,Fentine acetate,Organométalliques,1,PNA,10/01/2003
+441,21,Reg,Régulateur de croissance,2093,Ethephon,Organophosphorés,1,PA,
+442,9,H,Herbicide,2094,Dalapon,Divers (organiques),1,PNA,12/31/2003
+443,9,H,Herbicide,2095,Clodinafop-propargyl,Divers (organiques),1,PA,
+444,21,Reg,Régulateur de croissance,2096,Trinexapac-ethyl,Divers (organiques),1,PA,
+445,21,Reg,Régulateur de croissance,2097,Chloroméquat chlorure,Divers (organiques),1,PA,
+446,9,H,Herbicide,2522,"(Code gelé en 2012 2,4-D-ester)",Divers (organiques),1,PA,
+447,9,H,Herbicide,2523,"2,4-D-non-ester",Divers (organiques),1,PA,
+448,10,I,Insecticide,2530,Thiocarbe,Carbamates,1,PNA,
+449,10,I,Insecticide,99003,Thiocarbe,Carbamates,1,PNA,
+450,9,H,Herbicide,2534,Prosulfuron,Urées,1,PA,
+451,21,Reg,Régulateur de croissance,2545,Paclobutrazole,Azoles,1,PA,
+452,9,H,Herbicide,2546,Dimét(h)achlore,Organochlorés,1,PA,
+453,9,H,Herbicide,2547,Fluroxypyr-meptyl,Pyridines,1,PA,
+454,9,H,Herbicide,12246,Fluoroxypir-1-méthylheptil ester,Pyridines,1,PA,
+455,9,H,Herbicide,2563,Iodosulfuron,Urées,1,PA,
+456,9,H,Herbicide,2565,Flupyrsulfuron méthyle,Urées,1,PA,
+457,10,I,Insecticide,2567,Furathiocarbe,Carbamates,1,PNA,12/31/2003
+458,4,F,Fongicide,2568,Méfluidide,Amides,1,PA,10/26/2005
+459,4,F,Fongicide,2576,Pyraclostrobine,Divers (organiques),1,PA,
+460,9,H,Herbicide,2578,Mesosulfuron methyle,Urées,1,PA,
+461,4,F,Fongicide,2664,Spiroxamine,Amines,1,PA,
+462,4,F,Fongicide,2669,Picoxystrobine,Divers (organiques),1,PA,
+463,4,F,Fongicide,2678,Trifloxystrobine,Divers (organiques),1,PA,
+464,7,FN,"Fongicide, Nématicide",2722,Isothiocyanate de methyle,Divers (organiques),1,PNA,
+465,9,H,Herbicide,2729,Cycloxydime,Divers (organiques),1,PA,
+466,9,H,Herbicide,2731,Glufosinate-ammonium,Divers (organiques),1,PA,
+467,9,H,Herbicide,8987,Glufosinate ammonium,Divers (organiques),1,,
+468,,,,2525,Code gelé en version Provisoire (Desmethylnorflurazon),Divers (organiques),1,,
+469,,,,2737,Desmethylnorflurazon,Divers (organiques),1,,
+470,9,H,Herbicide,9053,Norflurazon desmethyl,Divers (organiques),1,,
+471,,,,2738,Desméthylisoproturon,Urées,1,,
+472,,,,9051,1-(4-isopropyl phényl)-3-méthylurée,Urées,1,,
+473,4,F,Fongicide,2741,3-Iodo-2-propynylbutylcarbamate,Carbamates,1,PA,
+474,11,IA,"Insecticide, Acaricide",2742,Fenazaquin,Divers (organiques),1,PA,
+475,4,F,Fongicide,2743,Fenhexamid,Amides,1,PA,
+476,19,N,Nématicide,2744,Fosthiazate,Organophosphorés,1,PA,
+477,9,H,Herbicide,2745,MCPA_1_butyl ester,Divers (organiques),1,PA,
+478,9,H,Herbicide,2746,MCPA-2-ethylhexyl ester,Divers (organiques),1,PA,
+479,9,H,Herbicide,2747,MCPA-butoxyethyl ester,Divers (organiques),1,PA,
+480,9,H,Herbicide,2748,MCPA-ethyl-ester,Divers (organiques),1,PA,
+481,9,H,Herbicide,2749,MCPA-methyl-ester,Divers (organiques),1,PA,
+482,9,H,Herbicide,2750,Mecoprop-1-octyl ester,Divers (organiques),1,PA,
+483,9,H,Herbicide,2751,"Mecoprop-2,4 4-trimethypentyl ester",Divers (organiques),1,PA,
+484,9,H,Herbicide,2752,Mecoprop-2-butoxyethyl ester,Divers (organiques),1,PA,
+485,9,H,Herbicide,2753,Mecoprop-2-ethylhexyl ester,Divers (organiques),1,PA,
+486,9,H,Herbicide,2754,Mecoprop-2-octyl ester,Divers (organiques),1,PA,
+487,9,H,Herbicide,2755,Mecoprop-methyl ester,Divers (organiques),1,PA,
+488,4,F,Fongicide,2781,Orthophénylphénol,Composés phénoliques,1,PA,
+489,9,H,Herbicide,2806,Foramsulfuron,Urées,1,PA,
+490,9,H,Herbicide,2807,Isoxadifen-éthyle,Divers (organiques),1,PA,
+491,9,H,Herbicide,2810,Florasulam,Azoles,1,PA,
+492,9,H,Herbicide,2847,Didemethylisoproturon,Divers (organiques),1,,
+493,,,,2869,(Code gelé en 2009 1 4 isopropyl phényl urée),Urées,1,,
+494,4,F,Fongicide,2858,Zoxamide,Amides,1,PA,
+495,10,I,Insecticide,2859,Resméthrine,Pyréthrinoïdes,1,PNA,
+496,21,Reg,Régulateur de croissance,2860,Imazaquine,Azoles,1,PA,
+497,10,I,Insecticide,2861,Chlorfenapyr,Azoles,1,PNA,09/05/2004
+498,11,IA,"Insecticide, Acaricide",2862,Flucythrinate,Pyréthrinoïdes,1,PNA,
+499,,,,9052,1 4 isopropyl phényl urée,Urées,1,,
+500,9,H,Herbicide,2870,Mecoprop-n iso-butyl ester,Divers (organiques),1,PA,
+501,9,H,Herbicide,2871,Ioxynil methyl ether,Divers (organiques),1,PNA,
+502,9,H,Herbicide,2872,"2,4-D isopropyl ester",Divers (organiques),1,PNA,
+503,9,H,Herbicide,2873,"2,4-Dichlorophenoxyacetic acid methyl ester",Divers (organiques),1,PNA,
+504,11,IA,"Insecticide, Acaricide",2897,Cyromazine,Triazines et métabolites,1,PA,
+505,4,F,Fongicide,2898,Tricyclazole,Azoles,1,PNA,3/30/2010
+506,10,I,Insecticide,2924,Benfuracarbe,Carbamates,1,PNA,
+507,9,H,Herbicide,2929,Dichlormide,Divers (organiques),1,PNA,
+508,9,H,Herbicide,2930,Méfenpyr diethyl,Divers (organiques),1,PA,
+509,9,H,Herbicide,2931,Acetamide,Amides,1,PNA,
+510,,,,99004,2-éthyl. 6-méthyl. 2-chloro acétanilide,Amines,1,,
+511,,,,2932,2-éthyl 6-méthylaniline,Amines,1,,
+512,,,,99005,"2-éthyl, 6-méthylaniline",Amines,1,,
+513,4,F,Fongicide,2933,Dodine,Divers (organiques),1,PA,
+514,,,,2934,1-(3-chloro-4-methylphenyl)uree,Urées,1,,
+515,,,,9055,"1-(3-chloro,4-méthyl phényl)-urée",Urées,1,,
+516,9,H,Herbicide,2937,Azimsulfuron,Urées,1,PA,
+517,9,H,Herbicide,2938,cinidon-éthyl,Divers (organiques),1,PA,
+518,,,,2941,Endrine Aldéhyde,Organochlorés,1,,
+519,,,,11810,Endrine Aldéhyde,Organochlorés,1,,
+520,10,I,Insecticide,2942,3-Ketocarbofuran,Carbamates,1,PNA,12/13/2008
+521,10,I,Insecticide,2950,Chlorfluazuron,Urées,1,PNA,
+522,4,F,Fongicide,2951,Iprovalicarb,Carbamates,1,PA,
+523,10,I,Insecticide,2965,Triclopyr méthyl ester,Pyridines,1,,
+524,9,H,Herbicide,2966,Chlorthal diméthyl,Divers (organiques),1,PNA,
+525,20,R,Rodenticide,2972,Coumafène,Divers (organiques),1,PA,
+526,9,H,Herbicide,2974,S-Metolachlore,Amides,1,PA,
+527,4,F,Fongicide,2975,Carboxine,Amides,1,PA,
+528,9,H,Herbicide,2976,Carfentrazone-ethyl,Azoles,1,PA,
+529,21,Reg,Régulateur de croissance,2977,Chlorure de choline,Divers (organiques),1,PNA,
+530,,,,3333,Code utilisé à tort avant 2006 pour le chlorure de choline,Hydrocarbures et indices liés,1,,
+531,9,H,Herbicide,2978,Clethodim,Divers (organiques),1,PA,
+532,11,IA,"Insecticide, Acaricide",2979,Cyhexatin,Organométalliques,1,PNA,10/04/2009
+533,9,H,Herbicide,2980,Desmediphame,Carbamates,1,PA,
+534,9,H,Herbicide,2981,Dichlorophene,Composés phénoliques,1,PNA,9/30/2007
+535,20,R,Rodenticide,2982,Difenacoum,Divers (organiques),1,PA,
+536,20,R,Rodenticide,2983,Difethialone,Divers (organiques),1,PA,
+537,4,F,Fongicide,2984,Fluazinam,Pyridines,1,PA,
+538,4,F,Fongicide,2985,Flutolanil,Amides,1,PA,
+539,9,H,Herbicide,2986,Imazamox,Azoles,1,PA,
+540,4,F,Fongicide,2987,Méfénoxam,Amides,1,PA,
+541,4,F,Fongicide,2988,Propamocarbe hydrochloride,Carbamates,1,PA,
+542,4,F,Fongicide,2989,Propinèbe,Carbamates,1,PA,
+543,4,F,Fongicide,2990,Triazoxide,Azoles,1,PNA,
+544,9,H,Herbicide,2991,Triflusulfuron-methyl,Urées,1,PA,
+545,4,F,Fongicide,2992,Triticonazole,Azoles,1,PA,
+546,,,,3159,2-hydroxy-desethyl-Atrazine,Triazines et métabolites,1,,
+547,,,,12119,Atrazine déséthyl-2-hydroxy,Triazines et métabolites,1,,
+548,,,,3160,"s-Triazin-2-ol, 4-amino-6-(ethylamino)- (8CI)",Triazines et métabolites,1,,
+549,,,,12120,Atrazine déisopropyl-2-hydroxy,Triazines et métabolites,1,,
+550,,,,3165,"4,4'-Dichlorobenzophenone",Organochlorés,1,,
+551,10,I,Insecticide,3209,Betacyfluthrine,Pyréthrinoïdes,1,PA,
+552,,,,3210,"4-Bromo-3,5-dimethylphenyl-N-methylcarbamate",Carbamates,1,,
+553,,,,3283,"2-chloro-N-(2,6-diethylphenyl)-acetamide",Amides,1,,
+554,,,,99008,"2-chloro-N-(2,6-diethylphenyl)-acetamide",Amides,1,,
+555,10,I,Insecticide,3285,Crotamiton,Amides,1,PA,
+556,20,R,Rodenticide,3334,Crimidine,Amines,1,PA,
+557,4,F,Fongicide,3349,Methfuroxam,Amides,1,,
+558,9,H,Herbicide,5317,Cacodylic acid,Organométalliques,1,,
+559,4,F,Fongicide,5413,Tecnazène,Divers (organiques),1,PNA,7/20/2002
+560,10,I,Insecticide,5416,Pymétrozine,Divers (organiques),1,PA,
+561,3,BF,"Biocide, Fongicide",5430,Triclosan,Composés phénoliques,1,,
+562,10,I,Insecticide,5438,mirex,Organochlorés,1,,
+563,11,IA,"Insecticide, Acaricide",5475,Thiofanox sulfoxyde,Carbamates,1,,
+564,11,IA,"Insecticide, Acaricide",5476,Thiofanox sulfone,Carbamates,1,,
+565,9,H,Herbicide,5477,Simétryne,Triazines et métabolites,1,,
+566,4,F,Fongicide,5478,Diphenylamine,Amines,1,PA,
+567,,,,5480,Ethylthiouree,Urées,1,,
+568,9,H,Herbicide,5481,Cinosulfuron,Urées,1,PNA,12/31/2004
+569,11,IA,"Insecticide, Acaricide",5482,Chlorfenethol,Organochlorés,1,,
+570,10,I,Insecticide,5483,Indoxacarbe,Carbamates,1,PA,
+571,,,,5484,Ethyluree,Urées,1,,
+572,10,I,Insecticide,5485,Endrin ketone,Organochlorés,1,,
+573,9,H,Herbicide,5488,Primisulfuron methyl,Urées,1,PNA,
+574,10,I,Insecticide,5499,Pyriproxyfène,Divers (organiques),1,PA,
+575,9,H,Herbicide,5501,Diclofop,Divers (organiques),1,,
+576,9,H,Herbicide,99010,Diclofop,Divers (organiques),1,PA,
+577,9,H,Herbicide,5507,Sulfomethuron-methyl,Urées,1,PNA,
+578,9,H,Herbicide,5508,Halosulfuron-methyl,Urées,1,,
+579,9,H,Herbicide,5509,Pyraflufen-ethyl,Azoles,1,PA,
+580,9,H,Herbicide,5510,Oxasulfuron,Urées,1,PNA,
+581,10,I,Insecticide,5511,Methoxyfenoside,Divers (organiques),1,PA,
+582,9,H,Herbicide,5512,Bensulfuron-methyl,Urées,1,PA,
+583,21,Reg,Régulateur de croissance,5513,Endothal,Divers (organiques),1,,
+584,9,H,Herbicide,5522,Chlorimuron-ethyl,Urées,1,,
+585,10,I,Insecticide,5523,Aminocarbe,Carbamates,1,PNA,
+586,9,H,Herbicide,5524,Difenoxuron,Urées,1,,
+587,10,I,Insecticide,5525,Dicrotophos,Organophosphorés,1,PNA,
+588,4,F,Fongicide,5526,Boscalid,Divers (organiques),1,PA,
+589,9,H,Herbicide,5527,Ethoxysulfuron,Urées,1,PNA,
+590,10,I,Insecticide,5528,Ethiofencarbe sulfone,Carbamates,1,,
+591,9,H,Herbicide,5529,Ethametsulfuron-methyl,Urées,1,PNA,
+592,9,H,Herbicide,5530,Pyriftalid,Divers (organiques),1,,
+593,1,A,Acaricide,5531,Pirimicarbe Desmethyl,Carbamates,1,,
+594,1,A,Acaricide,5532,Pirimicarbe Formamido Desmethyl,Carbamates,1,,
+595,4,F,Fongicide,5533,Mepanipyrim,Pyridines,1,PA,
+596,10,I,Insecticide,1181,Endrine,Organochlorés,1,PNA,10/04/1994
+597,10,I,Insecticide,1207,Isodrine,Organochlorés,1,PNA,
+598,10,I,Insecticide,1200,Hexachlorocyclohexane alpha,Organochlorés,1,PNA,
+599,10,I,Insecticide,1201,Hexachlorocyclohexane bêta,Organochlorés,1,PNA,
+600,10,I,Insecticide,1202,Hexachlorocyclohexane delta,Organochlorés,1,PNA,
+601,10,I,Insecticide,1203,Hexachlorocyclohexane gamma,Organochlorés,1,PNA,07/01/1998
+602,,,,1956,(Code gelé en 2010 Hexachlorocyclohexane),Organochlorés,1,,
+603,10,I,Insecticide,2046,Hexachlorocyclohexane epsilon,Organochlorés,1,SO,
+604,10,I,Insecticide,5537,HCH isomères,Organochlorés,1,PNA,
+605,,,,12003,Hexachlorocyclohexane,Organochlorés,1,,
+606,10,I,Insecticide,5542,Bensultap,Divers (organiques),1,PNA,
+607,9,H,Herbicide,5543,Bentazone-sodium,Diazines,1,,
+608,1,A,Acaricide,5544,Benzoximate,Divers (organiques),1,PNA,
+609,1,A,Acaricide,5545,Bifenazate,Divers (organiques),1,PA,
+610,20,R,Rodenticide,5546,Brodifacoum,Composés phénoliques,1,PA,
+611,1,A,Acaricide,5547,Halfenprox,Divers (organiques),1,PNA,12/31/2003
+612,20,R,Rodenticide,5548,Bromethaline,Divers (organiques),1,PNA,
+613,9,H,Herbicide,5549,Bromoxynil heptanoate,Divers (organiques),1,PNA,
+614,9,H,Herbicide,5551,Chlorate de sodium,Autres éléments minéraux,1,PNA,10/10/2010
+615,9,H,Herbicide,5552,Chlorflurenol,Divers (organiques),1,PNA,
+616,11,IA,"Insecticide, Acaricide",5553,Chlorefenizon,Divers (organiques),1,PNA,
+617,21,Reg,Régulateur de croissance,5554,Chlormequat,Divers (organiques),1,PA,
+618,4,F,Fongicide,5555,Chlozolinate,Divers (organiques),1,PNA,3/31/2002
+619,21,Reg,Régulateur de croissance,5556,Sintofen,Divers (organiques),1,PA,
+620,21,Reg,Régulateur de croissance,5557,Clofencet-potassium,Divers (organiques),1,PNA,12/31/2004
+621,9,H,Herbicide,5558,Clopyralid-olamine,Divers (organiques),1,,
+622,10,I,Insecticide,5559,Codlemone,Divers (organiques),1,PA,
+623,4,F,Fongicide,5561,hydroxyde de cuivre,Metaux et métalloïdes,1,,
+624,4,F,Fongicide,5562,oxychlorure de cuivre,Metaux et métalloïdes,1,,
+625,4,F,Fongicide,5563,oxyde cuivreux,Autres éléments minéraux,1,,
+626,4,F,Fongicide,5564,sulfate tribasique de cuivre,Metaux et métalloïdes,1,PA,
+627,21,Reg,Régulateur de croissance,5565,Cyanamide calcique,Divers (organiques),1,,
+628,21,Reg,Régulateur de croissance,5566,Cyanamide,Divers (organiques),1,,
+629,4,F,Fongicide,5567,Cyazofamid,Divers (organiques),1,PA,
+630,9,H,Herbicide,5568,Cycloate,Chloroalcanes,1,PNA,12/31/2003
+631,9,H,Herbicide,5569,Cyhalofop-butyl,Divers (organiques),1,PA,
+632,9,H,Herbicide,5571,"2,4-D-dimethylammonium",Divers (organiques),1,,
+633,9,H,Herbicide,5572,"2,4-DB Butoxyethyl ester",Divers (organiques),1,,
+634,9,H,Herbicide,5573,"2,4-DB-dimethylammonium",Divers (organiques),1,,
+635,9,H,Herbicide,5574,"2,4-MCPB sodium",Divers (organiques),1,,
+636,9,H,Herbicide,5575,acide 4-chlorophénoxyacétique,Divers (organiques),1,,
+637,21,Reg,Régulateur de croissance,5576,Benzyladenine,Divers (organiques),1,PNA,
+638,10,I,Insecticide,5578,abamectine B1a,Divers (organiques),1,PA,
+639,10,I,Insecticide,5579,Acetamiprid,Divers (organiques),1,PA,
+640,4,F,Fongicide,5581,Acibenzolar-S-Methyl,Divers (organiques),1,PA,
+641,9,H,Herbicide,5586,Alloxydim-sodium,Divers (organiques),1,PNA,
+642,4,F,Fongicide,5588,Ampropylfos,Organophosphorés,1,PNA,
+643,21,Reg,Régulateur de croissance,5589,Ancymidole,Divers (organiques),1,PNA,
+644,4,F,Fongicide,5590,Anilazine,Triazines et métabolites,1,PNA,
+645,9,H,Herbicide,5592,Asulam-sodium,Carbamates,1,PA,
+646,11,IA,"Insecticide, Acaricide",5593,Azocyclotin,Organométalliques,1,PNA,10/04/2009
+647,9,H,Herbicide,5595,Benazolin-ethyl,Azoles,1,PNA,
+648,9,H,Herbicide,5596,Dalapon-sodium,Divers (organiques),1,,
+649,21,Reg,Régulateur de croissance,5597,Daminozide,Divers (organiques),1,PA,
+650,11,IA,"Insecticide, Acaricide",5598,Dialiphos,Divers (organiques),1,PNA,12/31/2003
+651,9,H,Herbicide,5599,Dicamba-sodium,Divers (organiques),1,PA,
+652,4,F,Fongicide,5600,Dichlone,Divers (organiques),1,PNA,
+653,9,H,Herbicide,5601,Dichlorprop-butotyl,Divers (organiques),1,,
+654,9,H,Herbicide,5602,Propoxycarbazone-sodium,Divers (organiques),1,PA,
+655,4,F,Fongicide,5603,Prothioconazole,Azoles,1,PA,
+656,11,IA,"Insecticide, Acaricide",5604,Prothoate,Organophosphorés,1,PNA,
+657,9,H,Herbicide,5606,Pyridaphenthion,Organophosphorés,1,PNA,12/31/2003
+658,10,I,Insecticide,6593,(Code supprimé en 2011 Pyridaphention),Organophosphorés,1,PNA,12/31/2003
+659,9,H,Herbicide,5607,Quinclorac,Divers (organiques),1,PNA,12/31/2004
+660,20,R,Rodenticide,5608,Scilliroside,Divers (organiques),1,PA,
+661,4,F,Fongicide,5609,Silthiopham,Divers (organiques),1,PA,
+662,10,I,Insecticide,5610,Spinosad,Divers (organiques),1,PA,
+663,9,H,Herbicide,5611,Sulfamate d'ammonium,Autres éléments minéraux,1,PNA,6/30/2008
+664,11,IA,"Insecticide, Acaricide",5613,Dienochlore,Organochlorés,1,PNA,12/31/2003
+665,9,H,Herbicide,5614,Difenamide,Divers (organiques),1,PNA,12/31/2003
+666,9,H,Herbicide,5615,Difenzoquat,Divers (organiques),1,PNA,12/31/2003
+667,21,Reg,Régulateur de croissance,5616,Acide diprogulique,Divers (organiques),1,PNA,
+668,9,H,Herbicide,5617,Dimethenamid-P,Amides,1,PA,
+669,21,Reg,Régulateur de croissance,5618,Dimethipin,Divers (organiques),1,PNA,02/02/2009
+670,11,IA,"Insecticide, Acaricide",5619,Dinocap,Composés phénoliques,1,PNA,12/31/2009
+671,20,R,Rodenticide,5620,Diphacinone,Divers (organiques),1,PA,
+672,9,H,Herbicide,5621,Diquat dibromide,Divers (organiques),1,,
+673,4,F,Fongicide,5622,Dodemorphe,Divers (organiques),1,PA,
+674,4,F,Fongicide,5623,Ethoxyquine,Divers (organiques),1,PNA,12/31/2011
+675,10,I,Insecticide,5624,Etofenprox,Organophosphorés,1,PA,
+676,11,IA,"Insecticide, Acaricide",5625,Etoxazole,Divers (organiques),1,PA,
+677,9,H,Herbicide,5626,Fenclorim,Divers (organiques),1,PNA,
+678,11,IA,"Insecticide, Acaricide",5627,Fenizon,Divers (organiques),1,PNA,
+679,9,H,Herbicide,5628,Fenoxaprop-P-ethyl,Divers (organiques),1,PA,
+680,4,F,Fongicide,5629,Fenpiclonil,Divers (organiques),1,PNA,12/31/2003
+681,11,IA,"Insecticide, Acaricide",5630,Fenpyroximate,Divers (organiques),1,PA,
+682,9,H,Herbicide,5631,L-Flamprop-isopropyl,Divers (organiques),1,,
+683,9,H,Herbicide,5632,Flamprop-M,Divers (organiques),1,PNA,12/31/2004
+684,20,R,Rodenticide,5633,Flocoumafen,Divers (organiques),1,PA,
+685,9,H,Herbicide,5636,Fluoroglycofen,Divers (organiques),1,PNA,12/31/2003
+686,4,F,Fongicide,5638,Fluoxastrobine,Divers (organiques),1,PA,
+687,9,H,Herbicide,5639,Flupoxam,Divers (organiques),1,PNA,12/31/2003
+688,21,Reg,Régulateur de croissance,5640,Gibberellin A3,Divers (organiques),1,PNA,
+689,21,Reg,Régulateur de croissance,5641,Gibberelline a4a7,Divers (organiques),1,PA,
+690,4,F,Fongicide,5643,Guazatinacetate,Divers (organiques),1,PNA,
+691,10,I,Insecticide,5644,Hydramethylnon,Divers (organiques),1,PA,
+692,4,F,Fongicide,5646,Hymexazol,Azoles,1,PA,
+693,4,F,Fongicide,5648,Ethylenethiouree,Fongicides,1,,
+694,9,H,Herbicide,5649,Fosamine-ammonium,Organophosphorés,1,PNA,12/31/2003
+695,10,I,Insecticide,5653,Methoprene,Divers (organiques),1,PNA,12/31/2003
+696,4,F,Fongicide,5654,Metrafenone,Divers (organiques),1,PA,
+697,11,IA,"Insecticide, Acaricide",5655,Milbemectin,Divers (organiques),1,PA,
+698,9,H,Herbicide,5656,Monalide,Divers (organiques),1,PNA,12/31/2003
+699,9,H,Herbicide,5658,Nitralin,Divers (organiques),1,PNA,12/31/2003
+700,4,F,Fongicide,5660,Oxycarboxine,Divers (organiques),1,PNA,12/31/2003
+701,9,H,Herbicide,5661,Paraquat dichloride,Divers (organiques),1,,
+702,9,H,Herbicide,5663,Picloram-isoctyl,Divers (organiques),1,PA,
+703,9,H,Herbicide,5664,Picloram-potassium,Divers (organiques),1,PA,
+704,9,H,Herbicide,5665,Picolinafen,Divers (organiques),1,PA,
+705,9,H,Herbicide,5667,Prochloraze manganese,Divers (organiques),1,PA,
+706,21,Reg,Régulateur de croissance,5668,Prohexadione-calcium,Divers (organiques),1,PA,
+707,9,H,Herbicide,5669,Tepraloxydim,Divers (organiques),1,PNA,
+708,10,I,Insecticide,5671,Thiacloprid,Divers (organiques),1,PA,
+709,4,F,Fongicide,5675,Tolclofos-methyl,Organophosphorés,1,PA,
+710,9,H,Herbicide,5676,Tralkoxydime,Divers (organiques),1,PNA,
+711,10,I,Insecticide,5679,Triclopyr-butotyl,Divers (organiques),1,,
+712,22,RepO,Répulsif,5685,"2,3,5-Trimethacarb",Carbamates,1,PNA,
+713,9,H,Herbicide,5686,"2,4,5-T methyl ester",Divers (organiques),1,,
+714,9,H,Herbicide,5687,"2,4-D sec-butyl ester",Divers (organiques),1,,
+715,9,H,Herbicide,5691,Fenoxaprop,Divers (organiques),1,,
+716,10,I,Insecticide,5695,"3,4,5-Trimethacarb",Carbamates,1,PNA,
+717,11,IA,"Insecticide, Acaricide",5697,Amidithion,Organophosphorés,1,,
+718,9,H,Herbicide,5698,Atraton,Triazines et métabolites,1,,
+719,9,H,Herbicide,5699,Aziprotryne,Triazines et métabolites,1,,
+720,9,H,Herbicide,5701,Barban,Divers (organiques),1,PNA,
+721,9,H,Herbicide,5702,Benfuresate,Divers (organiques),1,,
+722,4,F,Fongicide,5703,Benodanil,Divers (organiques),1,,
+723,9,H,Herbicide,5705,Benzoylprop ethyl,Divers (organiques),1,PNA,
+724,10,I,Insecticide,5706,Bioallethrin S-cyclopentenyl isomer,Divers (organiques),1,PA,
+725,9,H,Herbicide,5707,Bromobutide,Divers (organiques),1,,
+726,11,IA,"Insecticide, Acaricide",5708,Bromocyclen,Organochlorés,1,,
+727,9,H,Herbicide,5709,Butachlor,Divers (organiques),1,PNA,
+728,9,H,Herbicide,5710,Butamifos,Organophosphorés,1,,
+729,10,I,Insecticide,5711,Butoxycarboxim,Carbamates,1,PNA,
+730,9,H,Herbicide,5713,Chloramben methyl ester,Divers (organiques),1,,
+731,9,H,Herbicide,5714,Chloranocryl,Divers (organiques),1,,
+732,10,I,Insecticide,5715,Chlorbenside,Organochlorés,1,PNA,
+733,10,I,Insecticide,5716,Chlordimeform,Divers (organiques),1,PNA,
+734,9,H,Herbicide,5717,Chlorfenprop-methyl,Divers (organiques),1,,
+735,9,H,Herbicide,5718,Chlorflurenol-methyl ester,Divers (organiques),1,,
+736,9,H,Herbicide,5719,Chlornitrofen,Organochlorés,1,,
+737,11,IA,"Insecticide, Acaricide",5720,Chlorobenzilate,Divers (organiques),1,PNA,
+738,11,IA,"Insecticide, Acaricide",5721,Chloropropylate,Divers (organiques),1,PNA,
+739,10,I,Insecticide,5722,Chlorthion,Urées,1,,
+740,11,IA,"Insecticide, Acaricide",5723,Chlorthiophos,Organophosphorés,1,,
+741,11,IA,"Insecticide, Acaricide",5724,Crotoxyphos,Organophosphorés,1,,
+742,10,I,Insecticide,5725,Crufomate,Organophosphorés,1,,
+743,10,I,Insecticide,5726,Cyanofenphos,Divers (organiques),1,,
+744,10,I,Insecticide,5727,Cyanophos,Organophosphorés,1,PNA,
+745,10,I,Insecticide,5728,Cyprazine,Triazines et métabolites,1,,
+746,4,F,Fongicide,5729,Cyprofuram,Divers (organiques),1,,
+747,9,H,Herbicide,5730,Desbromo-bromobutide,Divers (organiques),1,,
+748,10,I,Insecticide,5731,Dicapthon,Organophosphorés,1,,
+749,9,H,Herbicide,5732,Dichlorprop methyl ester,Divers (organiques),1,PNA,
+750,10,I,Insecticide,5733,Dicloran,Divers (organiques),1,PNA,3/18/2010
+751,9,H,Herbicide,5735,Diethatyl ethyl,Divers (organiques),1,PNA,
+752,9,H,Herbicide,5737,Dimethametryn,Triazines et métabolites,1,,
+753,9,H,Herbicide,5738,Dinitramine,Divers (organiques),1,PNA,
+754,11,IA,"Insecticide, Acaricide",5739,Dinobuton,Divers (organiques),1,PNA,
+755,11,IA,"Insecticide, Acaricide",5740,Dinoseb acetate,Divers (organiques),1,,
+756,11,IA,"Insecticide, Acaricide",5741,Dinoseb methyl ether,Divers (organiques),1,,
+757,11,IA,"Insecticide, Acaricide",5742,Dinoterb acetate,Divers (organiques),1,,
+758,10,I,Insecticide,5743,Dioxacarb,Carbamates,1,PNA,
+759,9,H,Herbicide,5744,Dipropetryn,Triazines et métabolites,1,,
+760,11,IA,"Insecticide, Acaricide",5745,Ditalimfos,Organophosphorés,1,PNA,
+761,9,H,Herbicide,5746,Dithiopyr,Divers (organiques),1,PNA,
+762,4,F,Fongicide,5747,Drazoxolon,Divers (organiques),1,,
+763,4,F,Fongicide,5748,Dimoxystrobine,Divers (organiques),1,PA,
+764,9,H,Herbicide,5749,Carfentrazone,Divers (organiques),1,,
+765,,,,5750,Desethylterbutylazine-2-hydroxy,Triazines et métabolites,1,,
+766,4,F,Fongicide,5751,Edifenphos,Organophosphorés,1,PNA,
+767,10,I,Insecticide,5752,Endosulfan ether,Organochlorés,1,,
+768,10,I,Insecticide,5753,Endosulfan lactone,Organochlorés,1,,
+769,9,H,Herbicide,5754,Erbon,Divers (organiques),1,,
+770,9,H,Herbicide,5755,Esprocarb,Carbamates,1,,
+771,4,F,Fongicide,5756,Etaconazole,Divers (organiques),1,,
+772,9,H,Herbicide,5757,Ethalfluraline,Divers (organiques),1,PNA,12/31/2011
+773,9,H,Herbicide,5758,Ethiolate,Carbamates,1,,
+774,4,F,Fongicide,5759,Etridiazole,Divers (organiques),1,PNA,12/31/2011
+775,10,I,Insecticide,5760,Etrimfos,Pyridines,1,PNA,
+776,10,I,Insecticide,5761,Famphur,Organophosphorés,1,,
+777,11,IA,"Insecticide, Acaricide",5762,Fenazaflor,Divers (organiques),1,,
+778,10,I,Insecticide,5763,Fenobucarb,Carbamates,1,PNA,
+779,9,H,Herbicide,5764,Fenoprop methyl ester,Divers (organiques),1,PNA,
+780,10,I,Insecticide,5765,Fensulfothion,Organophosphorés,1,PNA,
+781,10,I,Insecticide,5766,Fenthion sulfoxide,Organophosphorés,1,,
+782,11,IA,"Insecticide, Acaricide",5767,Flubenzimine,Divers (organiques),1,PNA,
+783,9,H,Herbicide,5768,Fluchloralin,Divers (organiques),1,PNA,
+784,21,Reg,Régulateur de croissance,5769,Flumetralin,Divers (organiques),1,,
+785,9,H,Herbicide,5770,Fluorodifen,Divers (organiques),1,,
+786,21,Reg,Régulateur de croissance,5771,Flurenol-butyl ester,Divers (organiques),1,,
+787,21,Reg,Régulateur de croissance,5772,Flurenol-methylester,Divers (organiques),1,,
+788,4,F,Fongicide,5773,Fuberidazole,Divers (organiques),1,,
+789,4,F,Fongicide,5774,Furmecyclox,Divers (organiques),1,,
+790,4,F,Fongicide,5777,Iprobenfos,Organophosphorés,1,PNA,
+791,9,H,Herbicide,5779,Isocarbamide,Divers (organiques),1,,
+792,9,H,Herbicide,5780,Isomethiozin,Divers (organiques),1,,
+793,10,I,Insecticide,5781,Isoprocarb,Carbamates,1,PNA,
+794,9,H,Herbicide,5782,Isopropalin,Divers (organiques),1,,
+795,10,I,Insecticide,5783,Isoprothiolane,Divers (organiques),1,,
+796,10,I,Insecticide,5784,Isoxathion,Organophosphorés,1,PNA,12/31/2003
+797,10,I,Insecticide,5785,Leptophos,Organophosphorés,1,PNA,
+798,10,I,Insecticide,5786,Leptophos oxon,Organophosphorés,1,,
+799,10,I,Insecticide,5787,Malathion-o-analog,Organophosphorés,1,,
+800,9,H,Herbicide,5788,MCPB methyl ester,Divers (organiques),1,,
+801,10,I,Insecticide,5789,Mecarbam,Organophosphorés,1,PNA,
+802,10,I,Insecticide,5790,Menazon,Organophosphorés,1,,
+803,10,I,Insecticide,5791,Mephosfolan,Organophosphorés,1,,
+804,11,IA,"Insecticide, Acaricide",5792,Methacrifos,Organophosphorés,1,PNA,
+805,10,I,Insecticide,5793,Methyl paraoxon,Organophosphorés,1,,
+806,9,H,Herbicide,5795,Methyldymron,Urées,1,,
+807,11,IA,"Insecticide, Acaricide",5796,Metolcarb,Carbamates,1,,
+808,2,B,Biocide,5800,Nitrapyrin,Organochlorés,1,PNA,
+809,4,F,Fongicide,5801,Nitrothal-isopropyl,Divers (organiques),1,PNA,
+810,11,IA,"Insecticide, Acaricide",5804,Chlorthiophos sulfone,Organophosphorés,1,,
+811,9,H,Herbicide,5805,Oxabetrinil,Divers (organiques),1,,
+812,10,I,Insecticide,5806,Paraoxon,Organophosphorés,1,,
+813,9,H,Herbicide,5807,Pebulate,Carbamates,1,PNA,
+814,9,H,Herbicide,5809,Pentanochlor,Divers (organiques),1,,
+815,11,IA,"Insecticide, Acaricide",5811,Phenkapton,Organophosphorés,1,,
+816,10,I,Insecticide,5813,Phenthoate,Organophosphorés,1,PNA,
+817,10,I,Insecticide,5814,Phosfolan,Organophosphorés,1,,
+818,4,F,Fongicide,5815,Phthalide,Divers (organiques),1,,
+819,9,H,Herbicide,5816,Picloram methyl ester,Divers (organiques),1,,
+820,20,R,Rodenticide,5817,Pindone,Divers (organiques),1,,
+821,4,F,Fongicide,5818,Piperalin,Divers (organiques),1,,
+822,9,H,Herbicide,5819,Piperophos,Organophosphorés,1,,
+823,10,I,Insecticide,5820,Plifenat,Divers (organiques),1,,
+824,4,F,Fongicide,5822,Probenazole,Divers (organiques),1,,
+825,9,H,Herbicide,5823,Profluralin,Divers (organiques),1,,
+826,10,I,Insecticide,5824,Prothiofos,Organophosphorés,1,,
+827,4,F,Fongicide,5825,Pyracarbolid,Divers (organiques),1,PNA,
+828,9,H,Herbicide,5826,Pyributicarb,Carbamates,1,,
+829,9,H,Herbicide,5827,Pyridinitril,Divers (organiques),1,,
+830,4,F,Fongicide,5828,Pyroquilon,Divers (organiques),1,,
+831,9,H,Herbicide,5829,"S,S,S-Tributylphosphorotrithioate",Organophosphorés,1,,
+832,10,I,Insecticide,5831,Sulprofos,Organophosphorés,1,PNA,
+833,9,H,Herbicide,5832,Swep,Divers (organiques),1,,
+834,4,F,Fongicide,5834,TCMTB,Divers (organiques),1,,
+835,9,H,Herbicide,5835,Terbucarb,Carbamates,1,,
+836,10,I,Insecticide,5836,Tetrapropyl thiodiphosphate,Organophosphorés,1,,
+837,11,IA,"Insecticide, Acaricide",5837,Tetrasul,Divers (organiques),1,PNA,
+838,19,N,Nématicide,5838,Thionazin,Organophosphorés,1,,
+839,4,F,Fongicide,5839,Triamiphos,Organophosphorés,1,,
+840,21,Reg,Régulateur de croissance,5840,Tributyl phosphorotrithioite,Organophosphorés,1,,
+841,9,H,Herbicide,5841,Tridiphane,Organophosphorés,1,PNA,
+842,9,H,Herbicide,5842,Trietazine,Triazines et métabolites,1,,
+843,4,F,Fongicide,5843,Triflumizole,Divers (organiques),1,PNA,3/18/2010
+844,9,H,Herbicide,5844,Tycor,Triazines et métabolites,1,,
+845,4,F,Fongicide,5845,Uniconizole-P,Divers (organiques),1,,
+846,11,IA,"Insecticide, Acaricide",5846,N-Methyl-N-1-naphthyl acetamide,Divers (organiques),1,,
+847,21,Reg,Régulateur de croissance,5920,di 1 p menthene,Hydrocarbures et indices liés,1,PA,
+848,10,I,Insecticide,5921,Tetramethrin,Divers (organiques),1,PA,
+849,9,H,Herbicide,5922,Tiocarbazil,Carbamates,1,,
+850,9,H,Herbicide,5929,1-(4-chlorophényl)urée,Urées,1,,
+851,9,H,Herbicide,5930,Daimuron,Urées,1,,
+852,9,H,Herbicide,5934,Thidiazuron,Urées,1,PNA,10/04/2009
+853,9,H,Herbicide,5968,Propazine 2-hydroxy,Urées,1,,
+854,21,Reg,Régulateur de croissance,5969,Forchlorfenuron,Urées,1,,
+855,11,IA,"Insecticide, Acaricide",5970,Fenothiocarbe,Carbamates,1,PNA,
+856,,,,5971,Trietazine desethyl,Triazines et métabolites,1,,
+857,9,H,Herbicide,5981,Sebutylazine desethyl,Urées,1,,
+858,,,,6101,Sebuthylazine 2-hydroxy,Triazines et métabolites,1,,
+859,,,,6102,Trietazine 2-hydroxy,Triazines et métabolites,1,,
+860,,,,6111,"2H-1,4-Benzoxazin-3(4H)-one",Triazines et métabolites,1,,
+861,10,I,Insecticide,6167,Aramite,Divers (organiques),1,PNA,
+862,,,,6214,Propylene thiouree,Urées,1,,
+863,10,I,Insecticide,6260,"1-(2,6-Dichloro-4-trifluoromethylphenyl)-3-cyano-4-trifluoromethanesul fonyl-5-aminopyrazole",Azoles,1,,
+864,,,,6261,"5-Amino-1-(2,6-dichloro-4-trifluoromethylphenyl)-3-cyano-4-trifluoromethylthiopyrazole",Azoles,1,,
+865,,,,6262,Fipronil desulfinyl,Azoles,1,,
+866,,,,6269,Pesticides organo-chlorés,Organochlorés,1,,
+867,,,,12143,Total des substances,,1,SO,
+868,10,I,Insecticide,6334,Hydrochlordecone,Organochlorés,1,PNA,
+869,9,H,Herbicide,6358,Pyridafol,Divers (organiques),1,,
+870,9,H,Herbicide,6385,Pyrazosulfuron,Urées,1,,
+871,9,H,Herbicide,6386,Pyrazosulfuron-ethyl,Urées,1,PNA,
+872,10,I,Insecticide,6389,Clothianidin,Azoles,1,PNA,
+873,10,I,Insecticide,6390,Thiamethoxam,Divers (organiques),1,PA,
+874,9,H,Herbicide,6391,Cumyluron,Urées,1,,
+875,4,F,Fongicide,6392,Benthiavalicarb,Carbamates,1,PA,
+876,10,I,Insecticide,6393,Flonicamid,Amides,1,PA,
+877,9,H,Herbicide,6394,Penoxsulam,Amides,1,PA,
+878,4,F,Fongicide,6398,Propamocarb,Carbamates,1,PNA,
+879,4,F,Fongicide,6399,Mandipropamid,Amides,1,PA,
+880,,,,6483,iodosulfuron-methyl-sodium,Urées,1,,
+881,9,H,Herbicide,1404,Fluazifop-P-butyl,Divers (organiques),1,PA,
+882,9,H,Herbicide,1825,Fluazifop-butyl,Divers (organiques),1,PNA,
+883,9,H,Herbicide,5634,Fluazifop-P,Divers (organiques),1,,
+884,9,H,Herbicide,6545,Fluazifop,Divers (organiques),1,,
+885,9,H,Herbicide,99001,Fluasifop-méthyl,Divers (organiques),1,,
+886,22,RepO,Répulsif,6553,Chloralose,Organochlorés,1,PNA,12/21/2010
+887,,,,6558,Chlorpyrifos oxon,Organophosphorés,1,,
+888,10,I,Insecticide,99022,Chlopymifos,Organophosphorés,1,,
+889,10,I,Insecticide,6577,Chlordécone 5b hydro,Organochlorés,1,PNA,
+890,10,I,Insecticide,99013,Chlordécone 5b hydro,Organochlorés,1,PNA,
+891,9,H,Herbicide,6594,Anilofos,Organophosphorés,1,PNA,
+892,9,H,Herbicide,6595,Bensulide,Organophosphorés,1,PNA,
+893,11,IA,"Insecticide, Acaricide",6596,Isocarbophos,Organophosphorés,1,PNA,
+894,9,H,Herbicide,6597,Isonoruron [Iso],Urées,1,,
+895,4,F,Fongicide,6601,Ethyleneuree,Fongicides,1,,
+896,10,I,Insecticide,6602,Bromfenvinphos,Organophosphorés,1,,
+897,4,F,Fongicide,6603,Climbazole,Azoles,1,,
+898,11,IA,"Insecticide, Acaricide",6604,Dimefox,Organophosphorés,1,,
+899,11,IA,"Insecticide, Acaricide",6605,Dioxation,Divers (organiques),1,PNA,
+900,4,F,Fongicide,6610,Fluotrimazole,Azoles,1,,
+901,10,I,Insecticide,6611,Pyraclofos,Organophosphorés,1,PNA,
+902,11,IA,"Insecticide, Acaricide",6606,Fenvalerate RR,Divers (organiques),1,,
+903,11,IA,"Insecticide, Acaricide",6608,Esfenvalerate SS,Divers (organiques),1,,
+904,11,IA,"Insecticide, Acaricide",6607,Fenvalerate RS,Divers (organiques),1,,
+905,11,IA,"Insecticide, Acaricide",6609,Esfenvalerate SR,Divers (organiques),1,,
+906,10,I,Insecticide,6629,Cyphenothrin,Pyréthrinoïdes,1,,
+907,10,I,Insecticide,6632,Dioxabenzofos,Organophosphorés,1,PNA,
+908,4,F,Fongicide,6636,Chlorure de didecyl dimethyl ammonium,Divers (organiques),1,PA,
+909,9,H,Herbicide,6637,Quizalofop ethyl P,Divers (organiques),1,PA,
+910,11,IA,"Insecticide, Acaricide",6662,Sulfluramid,Amides,1,,
+911,,,,6664,Methyl triclosan,Composés phénoliques,1,,
+912,10,I,Insecticide,6696,Dicyclanil,Divers (organiques),1,,
+913,9,H,Herbicide,6800,Alachlor ESA,Chloroacétamide,1,PNA,
+914,9,H,Herbicide,6807,Pyrimidinamine,Urées,1,PA,
+915,,,,6808,"1,2,4-Triazole",Azoles,1,,
+916,,,,6809,2-Amino-N-isopropyl-benzamide,Diazines,1,,
+917,9,H,Herbicide,6815,Mesosulfuron,Urées,1,,
+918,,,,6824,"N,N-Dimet-tolylsulphamid",,1,,
+919,9,H,Herbicide,6853,Metolachlor OXA,Chloroacétamide,1,,
+920,9,H,Herbicide,6854,Metolachlor ESA,Chloroacétamide,1,,
+921,9,H,Herbicide,6855,Alachlor OXA,Chloroacétamide,1,PNA,
+922,,,,6856,Acetochlor ESA,,1,,
+923,,,,6862,Acetochlor OXA,,1,,
+924,9,H,Herbicide,6863,Flufenacet oxalate,Amides,1,PA,
+925,9,H,Herbicide,6883,Acetochlor SAA,Amides,1,,
+926,9,H,Herbicide,6894,Metazachlor oxalic acid,Chloroacétamide,1,PNA,
+927,9,H,Herbicide,6895,Metazachlor sulfonic acid,Chloroacétamide,1,PNA,
+928,9,H,Herbicide,6942,"2,4-D 2-Ethylhexyl ester",Divers (organiques),1,PA,
+929,11,IA,"Insecticide, Acaricide",1232,Parathion éthyl,Organophosphorés,1,PNA,10/01/2002
+930,10,I,Insecticide,1233,Parathion méthyl,Organophosphorés,1,PNA,01/01/2004
+931,11,IA,"Insecticide, Acaricide",1766,(Code gelé en 1998 Total Parathion),Organophosphorés,1,SO,
+932,11,IA,"Insecticide, Acaricide",6947,Parathion ethyl+methyl,Organophosphorés,1,SO,
+933,10,I,Insecticide,6964,Propaphos,Organophosphorés,1,,
+934,10,I,Insecticide,6972,Dimethylvinphos,Organophosphorés,1,,
+935,9,H,Herbicide,7018,Chlorate de sodium,Divers (organiques),1,PA,
+936,9,H,Herbicide,7038,Butylate,Carbamates,1,PNA,
+937,9,H,Herbicide,7057,Pinoxaden,Divers (organiques),1,PA,
+938,9,H,Herbicide,7086,Tembotrione,Divers (organiques),1,PA,
+939,9,H,Herbicide,7087,Tritosulfuron,Divers (organiques),1,PA,
+940,10,I,Insecticide,7097,trans-Nonachlor,Organochlorés,1,PNA,
+941,9,H,Herbicide,7142,Dimepiperate,Divers (organiques),1,,
+942,10,I,Insecticide,7143,Mexacarbate,Carbamates,1,,
+943,4,F,Fongicide,7147,Carpropamide,Amides,1,,
+944,10,I,Insecticide,7148,Butocarboxime,Carbamates et thiocarbamates,1,,
+945,,,,7149,Phorate sulfone,Organophosphorés,1,PNA,
+946,9,H,Herbicide,7150,Terbuthylazine desethyl-2-hydroxy,Triazines et métabolites,1,PNA,
+947,24,HG,"Herbicide, Graminicide",7340,Pyroxsulam,Triazolopyrimidines sulfonamides,1,,
+948,23,HFNI,"Herbicide, Fongicide, Nématicide, Insecticide",7341,methyl isocyanate,Carbamates,1,,
+949,4,F,Fongicide,7342,Fluxapyroxade,Divers (organiques),1,PA,
+950,4,F,Fongicide,7345,Bixafen,Divers (organiques),1,PA,
+951,4,F,Fongicide,7422,Proquinazid,Quinazolinones,1,PA,
+952,9,H,Herbicide,7442,Proximpham,Inconnu,1,,
+953,4,F,Fongicide,7460,Benthiavalicarb-isopropyl,Carbamates,1,PA,
+954,4,F,Fongicide,7482,Uniconazole,Triazoles,1,PNA,
+955,10,I,Insecticide,7500,Chlorantraniliprole,Amides,1,PA,
+956,10,I,Insecticide,7501,Allyxycarbe,Carbamate,1,,
+957,10,I,Insecticide,7502,Bufencarbe,Carbamates,1,PNA,
+958,10,I,Insecticide,7503,Cythioate,Organophosphorés,1,,
+959,9,H,Herbicide,7505,Karbutilate,Carbamate,1,PNA,
+960,4,F,Fongicide,7508,Ipoconazole,Azoles,1,PA,
+961,4,F,Fongicide,7510,Imibenconazole,Triazoles,1,PNA,
+962,10,I,Insecticide,7511,Tébupirimfos,Organophosphorés,1,,
+963,10,I,Insecticide,7512,thiocyclam hydrogen oxala,Inconnu,1,PNA,
+964,4,F,Fongicide,7514,Thiophanate-ethyl,,1,PNA,
+965,,,,7515,Diphenylurée,Urées,1,,
+966,9,H,Herbicide,7516,Amiprofos-methyl,Organophosphorés,1,,
+967,9,H,Herbicide,7517,Thiencarbazone-methyl,Triazoles,1,PA,
+968,9,H,Herbicide,7519,pethoxamide,Chloroacetamide,1,PA,
+969,9,H,Herbicide,7522,Beflubutamide,Amides,1,PA,
+970,4,F,Fongicide,7748,cyflufénamide,Amides,1,PA,
+971,,,,7782,Desméthyl-chlortoluron,,1,PA,
+972,,,,7999,Total Pyréthrénoides,Pyréthrinoïdes,1,,
+973,10,I,Insecticide,1151,Déméton-O-Méthyl,Organophosphorés,1,PNA,
+974,11,IA,"Insecticide, Acaricide",1153,Déméton-S-Méthyl,Organophosphorés,1,PNA,
+975,10,I,Insecticide,11510,Total Déméthon méthyl,Organophosphorés,1,SO,
+976,,,,12098,Total Organochlorés,Organochlorés,1,,
+977,,,,12099,Total Organophosphorés,Organophosphorés,1,,
+978,,,,12140,Pesticides Kit immuno enzimatique,Indices,1,,
+979,10,I,Insecticide,1223,Méthoxychlore op',Organochlorés,1,PNA,
+980,10,I,Insecticide,1224,(Code gelé en 2005 Méthoxychlore pp'),Organochlorés,1,,
+981,10,I,Insecticide,1511,Méthoxychlore,Organochlorés,1,PNA,
+982,10,I,Insecticide,81511,Méthoxychlore op'+pp',Organochlorés,1,SO,
+983,,,,99007,Bentazone-8-ydroxy,Diazines,1,,
+984,9,H,Herbicide,99011,Isoproturon-1CH3,Urées,1,,
+985,9,H,Herbicide,99012,Isoproturon-2CH3,Urées,1,,
+986,,,,99020,"2,4 D (sel de dimethylamine)",,1,,
+987,,,,99024,Nonylphenol Polyethoxyle,Composés phénoliques,1,,
+988,10,I,Insecticide,1143,DDD 24',Organochlorés,1,,
+989,10,I,Insecticide,1144,DDD 44',Organochlorés,1,,
+990,10,I,Insecticide,1145,DDE 24',Organochlorés,1,,
+991,10,I,Insecticide,1146,DDE 44',Organochlorés,1,,
+992,10,I,Insecticide,1147,DDT 24',Organochlorés,1,PNA,1987
+993,10,I,Insecticide,1148,DDT 44',Organochlorés,1,PNA,1987
+994,9,H,Herbicide,1833,Haloxyfop-éthoxyéthyl,Divers (organiques),1,PNA,
+995,9,H,Herbicide,1909,Haloxyfop-méthyl-R,Divers (organiques),1,PNA,12/15/2008
+996,9,H,Herbicide,2047,Haloxyfop,Divers (organiques),1,PNA,12/31/2003
+997,9,H,Herbicide,12235,Haloxyfop-éthoxyéthyl,Divers (organiques),1,,
+998,9,H,Herbicide,99002,Haloxyfop-(P-)méthyl,Divers (organiques),1,PNA,
+999,19,N,Nématicide,1487,"Dichloropropène-1,3","COHV, solvants chlorés, fréons",20,PNA,
+1000,2,B,Biocide,1834,"Dichloropropène-1,3 cis","COHV, solvants chlorés, fréons",20,PA,
+1001,19,N,Nématicide,1835,"Dichloropropène-1,3 trans","COHV, solvants chlorés, fréons",20,,
+1002,,,,1776,(Code gelé en 2005 Acetate de triphenyletain),Organométalliques,,,
+1003,9,H,Herbicide,7783,Haloxyfop méthyl,Divers (organiques),,PNA,
